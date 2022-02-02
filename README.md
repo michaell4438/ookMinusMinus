@@ -19,5 +19,7 @@ Ook- | Ook | Description
 !? | Ook! Ook? | Begin a loop
 ?! | Ook? Ook! | Jump to start of the loop if the pointed-to memory value is zero
 
+***ALL OPERATIONS MUST BE SEPERATED BY A SPACE***
+
 ## Usage
 `python.exe .\ookMinus.py .\my-ook-file.ook-`
