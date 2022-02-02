@@ -44,7 +44,7 @@ class OokMinusInterpreter:
         print(chr(self.tape[self.pointer]), end='')
 		
     def input(self):
-        self.tape[self.pointer] = sys.stdin.read(1)
+        self.tape[self.pointer] = ord(sys.stdin.read(1))
         
     def beginLoop(self):
         self.loopList.append(self.index)
