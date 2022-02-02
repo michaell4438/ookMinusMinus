@@ -12,10 +12,10 @@ class OokMinusInterpreter:
     def __init__(self):
         self.tape = self.initTapeArray()
         self.commands = {
-            "?.": self.decrement,
-            ".?": self.increment,
-            "!!": self.moveLeft,
-            "..": self.moveRight,
+            "?.": self.moveLeft,
+            ".?": self.moveRight,
+            "!!": self.decrement,
+            "..": self.increment,
             "!.": self.output,
             ".!": self.input,
             "!?": self.beginLoop,
