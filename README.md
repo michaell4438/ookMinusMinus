@@ -1,6 +1,6 @@
 # Ook- (Ook Minus)
 
-***It's ook, but without the ook!***
+***It's [ook](https://esolangs.org/wiki/Ook!), but without the ook!***
 
 So instead of `Ook. Ook?`, you would use `.?`  
 Still confused? Great!
