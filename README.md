@@ -8,7 +8,7 @@ Still confused? Great!
 **NOTE: Some code is still untested as of this moment**
 
 ## Valid Operations
-Ook- | Ook | Description
+Ook-- | Ook | Description
 --- | --- | ---
 .? | Ook. Ook? | Increment Pointer
 ?. | Ook? Ook. | Decrement Pointer
