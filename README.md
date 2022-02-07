@@ -1,4 +1,4 @@
-# Ook- (Ook Minus)
+# Ook-- (Ook Minus Minus)
 
 ***It's [ook](https://esolangs.org/wiki/Ook!), but without the ook!***
 
